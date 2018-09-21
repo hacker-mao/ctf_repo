@@ -1,0 +1,30 @@
+    RaaS Terms of Service
+    Posted: Yesterday
+    
+    Effective: Now
+    
+    Thanks for using RaaS! These terms of service ("Terms") cover your use and access to our services, client software and websites ("Services"). If you reside outside of the United States of America, Canada and Mexico ("North America") your agreement is with RaaS International Unlimited Company, and if you reside in North America your agreement is with RaaS, Inc. Our Privacy Policy explains how we collect and use your information while our Acceptable Use Policy outlines your responsibilities when using our Services. By using our Services, you're agreeing to be bound by these Terms, our Privacy Policy and Acceptable Use Policy. If you're using our Services for an organization, you're agreeing to these Terms on behalf of that organization.
+    
+    Your Stuff & Your Permissions
+    When you use our Services, you provide us with things like your files, content, messages, contacts and so on ("Your Stuff"). Your Stuff is yours. These Terms don't give us any rights to Your Stuff except for the limited rights that enable us to offer the Services.
+    
+    We need your permission to do things like hosting Your Stuff, backing it up, and sharing it when you ask us to. Our Services also provide you with features like photo thumbnails, document previews, commenting, easy sorting, editing, sharing and searching. These and other features may require our systems to access, store and scan Your Stuff. You give us permission to do those things, and this permission extends to our affiliates and trusted third parties we work with.
+    
+    Sharing Your Stuff
+    Our Services let you share Your Stuff with others, so please think carefully about what you share.
+    
+    Your Responsibilities
+    You're responsible for your conduct. Your Stuff and you must comply with our Acceptable Use Policy. Content in the Services may be protected by others' intellectual property rights. Please don't copy, upload, download or share content unless you have the right to do so.
+    
+    We may review your conduct and content for compliance with these Terms and our Acceptable Use Policy. With that said, we have no obligation to do so. We aren't responsible for the content people post and share via the Services.
+    
+    Help us keep you informed and Your Stuff protected. Safeguard your password to the Services, and keep your account information current. Don't share your account credentials or give others access to your account.
+    
+    You may use our Services only as permitted by applicable law, including export control laws and regulations. Finally, our Services are not intended for and may not be used by people under the age of 13. By using our Services, you are representing to us that you're over 13.
+    
+    Software
+    Some of our Services allow you to download client software ("Software") which may update automatically. So long as you comply with these Terms, we give you a limited, nonexclusive, nontransferable, revocable license to use the Software, solely to access the Services. To the extent any component of the Software may be offered under an open source license, we'll make that license available to you and the provisions of that license may expressly override some of these Terms. Unless the following restrictions are prohibited by law, you agree not to reverse engineer or decompile the Services, attempt to do so, or assist anyone in doing so.
+    
+    Beta Services
+    We sometimes release products and features that we are still testing and evaluating. Those Services have been marked beta, preview, early access, or evaluation (or with words or phrases with similar meanings) and may not be as reliable as RaaS's other services, so please keep that in mind.
+    
