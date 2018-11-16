@@ -1,1 +1,1 @@
-# hack-the-word
+# Pwn or Re challenge
