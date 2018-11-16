@@ -1,5 +1,0 @@
-ID:1
-ID:1';insert into users(id,username,password) values('17','aaa','bbb'); #
-ID:1'
-ID:1'
-ID:1 ;insert into users(id,username,password) values('17','aaa','bbb'); #

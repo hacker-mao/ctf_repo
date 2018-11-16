@@ -1,1 +1,0 @@
-# 由于sql-labs是用php5支持的，现在php7不支持sql_query函数了，所以修改成支持php7的格式
